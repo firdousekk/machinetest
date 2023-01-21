@@ -1,0 +1,10 @@
+#bgc{
+    background-color:skyblue ;
+}
+#div:hover{
+    background-color: aliceblue;
+
+}
+#div{
+ padding:10px;   
+}

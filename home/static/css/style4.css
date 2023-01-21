@@ -1,0 +1,95 @@
+.div1{
+    background-color: skyblue;
+    height:300px;
+    width: 275px;
+    display: inline;
+    display: inline-block;
+    border-radius: 4px;
+    overflow: scroll;
+    border: solid black;
+
+
+    
+}
+.div2{
+    background-color: skyblue;
+    height: 300px;
+    width: 275px;
+    display: inline;
+    display: inline-block;
+    border-radius: 4px;
+    overflow: scroll;
+    border: solid black;
+
+}
+.div3{
+    background-color: skyblue;
+    height: 300px;
+    width: 275px;
+    display: inline;
+    display: inline-block;
+    border-radius: 4px;
+    overflow: scroll;
+    border: solid black;
+
+}
+.div4{
+    background-color: skyblue;
+    height: 300px;
+    width: 275px;
+    display: inline;
+    display: inline-block;
+    border-radius: 4px;
+    overflow: scroll;
+    border: solid black;
+}
+.div{
+    background-color: bisque;
+    align-self: center;
+    height: 600px;
+    
+}
+
+#h1{
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+    width: 300px;
+
+}
+h2{
+    background-color: black;
+    color: aliceblue;
+}
+.d{
+    display: inline;
+    padding: 30px;
+}
+.divgrd{
+    display:grid;
+    grid-template-rows:auto;
+    grid-template-columns:auto auto auto auto;
+    border:3px solid black;
+    width: 1125px;
+
+}
+.div5{
+    background-image: url("../images/fa.jpg");
+    height: 300px;
+    width: 363px;
+    display: inline;
+    display: inline-block;
+    border-radius: 4px;
+    border: solid black;
+}
+
+.footer{
+    height: 230px;
+    width: 1000px; 
+    text-align: center;
+    background-image: url("../images/img1.jpg");
+    display: inline;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 10px;
+}
